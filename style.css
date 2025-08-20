@@ -16,22 +16,12 @@ html{
 body{
     font-family: "Cairo", sans-serif;
 }
-@keyframes nav{
-    from{
-        transform: translateY(-50%);
-    }
-    to{
-        transform: translateY(0);
-    }
-}
 nav{
     height:100px;
     display:flex;
     justify-content: space-between;
     align-items: center;
     padding:10px;
-    animation-name: nav;
-    animation-duration: 1.5s;
     background-color: var(--primary-color);
 }
 nav ul{
