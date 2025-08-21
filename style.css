@@ -78,7 +78,6 @@ nav ul li a:hover{
 .mobile-menu a {
     display: none;
     line-height:50px;
-    color: var(--bg-color);
     font-size: 20px;
     text-decoration: none;
 } 
@@ -94,7 +93,7 @@ nav ul li a:hover{
     }
   }
   #home{
-    background-image: url(images/pexels-tima-miroshnichenko-6169056.jpg);
+    background-image: url(images/background.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -112,7 +111,7 @@ nav ul li a:hover{
   left:5px;
   border-radius:10px;
 }
-#home h2{
+#home h1{
     color:var(--primary-color);
     font-size:60px;
     font-weight:700;
@@ -179,7 +178,7 @@ nav ul li a:hover{
     width:100%;
     padding-top:50px ;
 }
-.h2{
+.section-title {
     color:var(--secondary-color);
     font-size:50px;
     font-weight:700;

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mariam149-abdo.github.io/need-for-speed/sitemap.xml
