@@ -58,7 +58,6 @@ nav ul li a:hover{
     width:50%;
     height:100%;
     background-color: var(--secondary-color);
-    color:var(--primary-color);
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -80,6 +79,7 @@ nav ul li a:hover{
     line-height:50px;
     font-size: 20px;
     text-decoration: none;
+    color:var(--primary-color);
 } 
 .animation-menu{
     animation: menu 0.5s ease;
